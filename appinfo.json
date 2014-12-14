@@ -3,13 +3,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "alex.hedley@me.com",
+    "companyName": "Alex Hedley",
     "longName": "Dizzy",
     "projectType": "native",
     "resources": {
         "media": [
             {
                 "file": "images/Dizzy Watch Screen (2).png",
+                "menuIcon": true,
                 "name": "IMAGE_BACKGROUND",
                 "type": "png"
             },
@@ -25,6 +26,6 @@
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
