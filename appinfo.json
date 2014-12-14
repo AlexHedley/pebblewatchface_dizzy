@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "alex.hedley@me.com",
+    "longName": "Dizzy",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Dizzy Watch Screen (2).png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/fuddle.ttf",
+                "name": "FONT_FUDDLE_12",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Dizzy",
+    "uuid": "1170483c-8d68-487e-8b34-6a9c97c9e29b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
